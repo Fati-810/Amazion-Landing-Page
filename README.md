@@ -32,7 +32,7 @@ A modern, fully responsive **PSD to HTML landing page conversion** project. This
  
  Smooth UI transitions and Hover effects.
 
- The design adapts perfectly across: ✅ Mobile   ✅ Tablet   ✅ Desktop  
+ The design adapts perfectly across: ✅ Mobile   ✅ Tablet   ✅ Desktop.  
 
  ## Preview:  
  https://fati-810.github.io/Amazion-Landing-Page/
