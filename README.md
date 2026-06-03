@@ -4,33 +4,33 @@ A modern, fully responsive **PSD to HTML landing page conversion** project. This
 
 ## Features: 
 
- 🎨 Clean & Modern User Interface  
- 📱 Fully Responsive for all devices  
- 🖱️ Smooth scrolling experience  
- 🚀 Hero section with Call-to-Action  
- 🛠️ Services / What We Do section  
- 🖼️ Portfolio Gallery with filters  
- 📊 Statistics counter section  
- ✉️ Contact form UI  
- 🌐 Footer with social media icons  
+ 🎨 Clean & Modern User Interface.  
+ 📱 Fully Responsive for all devices.  
+ 🖱️ Smooth scrolling experience. 
+ 🚀 Hero section with Call-to-Action.  
+ 🛠️ Services / What We Do section.  
+ 🖼️ Portfolio Gallery with filters.  
+ 📊 Statistics counter section.  
+ ✉️ Contact form UI.  
+ 🌐 Footer with social media icons.  
  
  ## Technical Overview: (Behind the Scenes)
 
- Structure built using **semantic HTML5**
+ Structure built using **semantic HTML5**.
  
- Styling done with **custom CSS3**
+ Styling done with **custom CSS3**.
  
- Interactive elements powered by **Vanilla JavaScript**
+ Interactive elements powered by **Vanilla JavaScript**.
  
- Fully responsive layout using **Flexbox & Media Queries**
+ Fully responsive layout using **Flexbox & Media Queries**.
  
- Optimized image assets for faster loading
+ Optimized image assets for faster loading.
  
- Organized and reusable CSS components
+ Organized and reusable CSS components.
  
- Cross-browser compatible (Chrome, Firefox, Edge)
+ Cross-browser compatible (Chrome, Firefox, Edge).
  
- Smooth UI transitions and Hover effects
+ Smooth UI transitions and Hover effects.
 
  The design adapts perfectly across: ✅ Mobile   ✅ Tablet   ✅ Desktop  
 
