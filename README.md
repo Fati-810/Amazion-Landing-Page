@@ -2,6 +2,8 @@
 
 A modern, fully responsive **PSD to HTML landing page conversion** project. This project was created by converting a professional UI design into a pixel-perfect front-end layout.
 
+⚠️ This is a personal portfolio project created to demonstrate web development and design skills. All business information and sample content are for demonstration purposes only.
+
 ## Features: 
 
  🎨 Clean & Modern User Interface.  
