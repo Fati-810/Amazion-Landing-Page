@@ -503,19 +503,7 @@ nav ul li a:hover {
     padding: 20px 0;
 }
 
-.footer {
-    padding: 25px 20px;
-}
 
-.footer .container .demo-note,
-.footer .container .footer-credit {
-    float: none;
-    clear: both;
-    text-align: center;
-    max-width: 800px;
-    margin: 8px auto;
-    line-height: 1.6;
-}
 
 
 /* Responsiveness */
